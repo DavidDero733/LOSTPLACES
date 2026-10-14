@@ -1,0 +1,6 @@
+{
+  "name": "LOSTPLACES — Urban Exploration Discovery Archive",
+  "description": "Discover, document, and map abandoned places, industrial ruins, subterranean transit, and forgotten architecture worldwide.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
